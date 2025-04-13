@@ -1,8 +1,9 @@
-[参考1](https://kjgx668.blogspot.com/2025/03/cloudflarevpn-bpb3.1.1vpnip-vpn10kbps-proxyip.html)
+### 参考
+[参考1_科技共享](https://kjgx668.blogspot.com/2025/03/cloudflarevpn-bpb3.1.1vpnip-vpn10kbps-proxyip.html)，
 [参考2_汉斯解说](https://hansvlss.top/post/bpb/)
 
 ### 优选IP
-[在线工具](https://vfarid.github.io/cf-ip-scanner/)
+[在线工具](https://vfarid.github.io/cf-ip-scanner/)，
 [本地工具](https://github.com/bia-pain-bache/Cloudflare-Clean-IP-Scanner/releases)
 
 ### PROXYIP
